@@ -1,12 +1,4 @@
-/*
-N=5
-     *
-    ***
-   *****
-  *******
-     
 
-*/
 #include<stdio.h>
 void printPattern(int n)
 {
